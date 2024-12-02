@@ -1,0 +1,14 @@
+body {
+  color: #fafafa;
+  background-color: #2b2b2b;
+  padding: 1.5em;
+}
+
+input {
+  margin-bottom: 2px;
+}
+
+p {
+  padding: 0px;
+  margin-bottom: 0px;
+}
